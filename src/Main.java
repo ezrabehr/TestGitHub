@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("t");
         int x = 5;
-        int y =6;
+        int y = 6;
+        int z = x+y;
     }
 }
