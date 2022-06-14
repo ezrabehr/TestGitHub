@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("this is a project");
         System.out.println("t");
+        int x = 5;
     }
 }
